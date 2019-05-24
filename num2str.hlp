@@ -1,0 +1,33 @@
+{smcl}
+{* 10jul2015}{...}
+{hline}
+help for {hi:num2str} {right:manual:  {hi:[R] none}}
+{right:dialog:  {hi: none}    }
+{hline}
+
+{title:Syntax}
+   
+{p 4 4 2}{cmd:num2str} {it:var dec}{p_end}
+
+{p 4 4 2}Where {it:var} is a numerical variable to be converted to a string variable, and 
+{it:dec} is the number of decimals to which the numbers will be rounded.{p_end}
+
+{title:Description}
+
+{p 4 4 2}{cmd:num2str} converts a numerical variable to string with rounding to 
+a specified number of decimals.{p_end}
+
+{title:Example}
+
+{p 4 4 2}{cmd:num2str} age 1 {p_end}
+
+{title:Author}
+
+{p 4 4 2}
+Jonas Ranstam PhD {break}
+Mdas AB Rotfruktsgatan 12B, Ystad, Sweden, {break}
+http://www.ranstam.se, jonas.ranstam@gmail.com{p_end}
+
+
+
+
